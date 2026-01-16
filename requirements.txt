@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+psutil
+python-telegram-bot
+fal-client
+openai
+requests
